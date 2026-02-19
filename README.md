@@ -20,7 +20,7 @@
 
 - Python 3.10+
 - Go 1.20+ (`gmn` バイナリのビルド・実行用)
-- [`gmn` CLI](https://github.com/example/gmn) (パスが通っていること)
+- [`gmn` CLI](https://github.com/tomohiro-owada/gmn) (パスが通っていること)
 - `gemini-cli (Node.js版)` でのログイン済み (`~/.gemini/` に認証情報があること)
 
 ## インストールと実行
@@ -72,3 +72,9 @@
 
 - `tests/`: ユニットテスト（開発中）。
 - `pyproject.toml` / `uv.lock`: `uv` による依存関係管理。
+
+## Thanks
+
+- **Google Gemini CLI Team**: 素晴らしい AI インターフェースの基盤を提供していただき感謝します。
+- **[tomohiro-owada](https://github.com/tomohiro-owada)**: 高速な Go 製 Gemini CLI ツール `gmn` の開発に心より感謝いたします。
+
