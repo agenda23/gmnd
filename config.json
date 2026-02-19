@@ -1,0 +1,5 @@
+{
+    "resident_channel_id": null,
+    "allowed_channel_ids": [],
+    "default_model": "gemini-1.5-flash"
+}
