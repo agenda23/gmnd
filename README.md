@@ -45,4 +45,14 @@
 - `core.py`: CLI 連携とコンテキスト管理のユーティリティ。
 - `config.json`: 動作設定。
 - `data/`: 文脈履歴保存ディレクトリ。
+- `docs/`: ドキュメント類。
+    - [`instructions.md`](docs/instructions.md): **操作マニュアル（詳細はこちら）**
+    - `Discord Bot "gmnd" 仕様書.md`: プロジェクト仕様書。
 - `system.log`: システムエラーおよびイベントログ。
+- `LICENSE`: MIT ライセンス。
+- `CHANGELOG.md`: 更新履歴。
+
+## 開発とテスト
+
+- `tests/`: ユニットテスト（開発中）。
+- `pyproject.toml` / `uv.lock`: `uv` による依存関係管理。
